@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+.center {
+    margin: auto;
+    display: block;
+}
+
+#wordle {
+    text-align: center;
+}
+
+table {
+    border: 3px solid;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: x-large;
+    
+}
+
+td {
+    width: 2em;
+    height: 2em;
+    background-color: lightgray;
+    border: 2px solid;
+    border-color: gray;
+    text-align: center;
+    color: black;
+}
+
